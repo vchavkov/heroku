@@ -17,6 +17,7 @@
       "description": "Cookie and JWT encryption token",
       "generator": "secret"
     },
+    "PORT": 5000,
     "HEROKU_APP_NAME": {
       "description": "Enter the app name you picked above",
       "required": true
